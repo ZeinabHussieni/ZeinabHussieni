@@ -1,3 +1,4 @@
+
 # 🚀 Zeinab Al-Hussieni
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=ec4899&random=false&width=435&lines=%F0%9F%91%8B+Full+Stack+Developer.;%F0%9F%92%BB+Always+Learning.;%F0%9F%92%A1+Let%E2%80%99s+Build+Cool+Stuff!" alt="Typing SVG" /></a>
