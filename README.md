@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I’m+Zeinab+Al-Hussieni;Developer&center=true&width=500&height=60&color=ec4899&vCenter=true&size=25)
-
-Hi 👋 My name is Zeinab Al-Hussieni
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I’m+Zeinab+Al-Hussieni;center=true&width=500&height=60&color=ec4899&vCenter=true&size=25)
 
 ===================================
 
