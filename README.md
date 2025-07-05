@@ -1,5 +1,7 @@
-
+<div align="center">
+  
 # 🚀 Zeinab Al-Hussieni
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=ec4899&random=false&width=435&lines=%F0%9F%91%8B+Full+Stack+Developer.;%F0%9F%92%BB+Always+Learning.;%F0%9F%92%A1+Let%E2%80%99s+Build+Cool+Stuff!" alt="Typing SVG" /></a>
 
@@ -30,15 +32,25 @@
 <a href="https://github.com/ZeinabHussieni?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZeinabHussieni?color=ec4899&style=for-the-badge&labelColor=be3d7a&logo=star"/>
 </a>
+<div align="center">
+
+  <b>My GitHub Stats</b>
+
+  <br><br>
+
+  <a href="http://www.github.com/ZeinabHussieni" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeinabHussieni&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" alt="ZeinabHussieni's GitHub stats" />
+  </a>
+
+  <a href="http://www.github.com/ZeinabHussieni" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHussieni&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ZeinabHussieni"><img src="https://github-readme-stats.vercel.app/api?username=ZeinabHussieni&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="ZeinabHussieni's GitHub stats" /></a>
-
-<a href="http://www.github.com/ZeinabHussieni"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHussieni&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ZeinabHussieni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabHussieni&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+  <a href="https://github.com/ZeinabHussieni" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabHussieni&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
 
 ### 🌼 My Contribution Garden
 
