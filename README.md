@@ -1,26 +1,15 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I%E2%80%99m+Zeinab+Al-Hussieni&center=true&width=500&height=60&color=ec4899&vCenter=true&size=25)
+# 🚀 Zeinab Al-Hussieni
 
-===================================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=ec4899&random=false&width=435&lines=%F0%9F%91%8B+Full+Stack+Developer.;%F0%9F%92%BB+Always+Learning.;%F0%9F%92%A1+Let%E2%80%99s+Build+Cool+Stuff!" alt="Typing SVG" /></a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+and+growing;Let’s+build+cool+stuff+together!&center=true&width=600&height=45&color=ec4899&vCenter=true&size=22)
+**`Passionate Full-Stack Developer & Problem Solver`**
 
---------------------
+* 🌍 I'm based in Beirut, Lebanon 🇱🇧
+* ✉️ You can contact me at [zeinabalhussieni@gmail.com](mailto:zeinabalhussieni@gmail.com)
+* 🧠 Currently learning: New frameworks and cutting-edge tools
+* 🤔 Interests: AI, clean code, UX design, and innovative web apps
+* ⚡ Fun fact: I’m always down for a creative collab or challenge!
 
-
-
-I’m a passionate and driven Full-Stack Developer with a deep love for building modern, impactful digital experiences. From designing sleek, responsive user interfaces to developing powerful and scalable backend systems, I thrive on turning creative ideas into real-world solutions.
-
-With a strong foundation in both frontend and backend technologies, I enjoy working across the full development stack, constantly learning and evolving to stay up-to-date with the latest tools and trends. I believe that clean code, thoughtful design, and user-centered development are the keys to building products that truly make a difference.
-
-What sets me apart is my dedication, attention to detail, and the energy I bring into every project I touch. I’m not just writing code — I’m building experiences, solving problems, and crafting products that users love. Whether I’m working solo or collaborating with a team, I always bring a positive mindset, strong communication, and a desire to grow.
-
-* 🌍  I'm based in Beirut, Lebanon 🇱🇧
-* ✉️  You can contact me at [zeinabalhussieni@gmail.com](mailto:zeinabalhussieni@gmail.com)
-* 🧠  I'm learning New frameworks and tools to keep my skills sharp and fresh
-* 🤝  I'm open to collaborating on Creative, meaningful, and future-forward projects that challenge the norm and bring real value.
-
-<a href="https://www.github.com/ZeinabHussieni" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ZeinabHussieni?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
 
 ### Skills
 
@@ -33,6 +22,13 @@ src="https://img.shields.io/github/followers/ZeinabHussieni?logo=github&style=fo
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/share/1F2EpbswFF/?mibextid=wwXIfr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/ZeinabHussieni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/zeinab_al_hussieni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/zeinab-al-hussieni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p>
+<a href="https://github.com/ZeinabHussieni?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZeinabHussieni?color=ec4899&labelColor=be3d7a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/ZeinabHussieni?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZeinabHussieni?color=ec4899&style=for-the-badge&labelColor=be3d7a&logo=star"/>
+</a>
 
 
 <b>My GitHub Stats</b>
@@ -42,3 +38,20 @@ src="https://img.shields.io/github/followers/ZeinabHussieni?logo=github&style=fo
 <a href="http://www.github.com/ZeinabHussieni"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHussieni&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ZeinabHussieni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabHussieni&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### 🌼 My Contribution Garden
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif" width="120" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeinabHussieni&theme=react-dark&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=🌸+My+Contribution+Garden" />
+</p>
+
+---
+
+✨ Thanks for visiting my profile — let’s build something amazing! 
+
+---
+
