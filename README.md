@@ -1,11 +1,13 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I’m+Zeinab+Al-Hussieni;Full-Stack+Developer&center=true&width=500&height=60&color=ec4899&vCenter=true&size=25)
+
 Hi 👋 My name is Zeinab Al-Hussieni
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+and+growing;Let’s+build+cool+stuff+together!&center=true&width=600&height=45&color=ec4899&vCenter=true&size=22)
 
 ===================================
 
-Full-Stack Developer
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+and+growing;Let’s+build+cool+stuff+together!&center=true&width=600&height=45&color=ec4899&vCenter=true&size=22)
+
 --------------------
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I’m+Zeinab+Al-Hussieni;Full-Stack+Developer&center=true&width=500&height=60&color=ec4899&vCenter=true&size=25)
+
 
 
 I’m a passionate and driven Full-Stack Developer with a deep love for building modern, impactful digital experiences. From designing sleek, responsive user interfaces to developing powerful and scalable backend systems, I thrive on turning creative ideas into real-world solutions.
