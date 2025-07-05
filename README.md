@@ -38,17 +38,17 @@
 
   <br><br>
 
-  <a href="http://www.github.com/ZeinabHussieni" style="display: inline-block; margin-right: 20px;">
+  <a href="http://www.github.com/ZeinabHussieni">
     <img src="https://github-readme-stats.vercel.app/api?username=ZeinabHussieni&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" alt="ZeinabHussieni's GitHub stats" />
   </a>
 
-  <a href="http://www.github.com/ZeinabHussieni" style="display: inline-block; margin-right: 20px;">
+  <a href="http://www.github.com/ZeinabHussieni">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHussieni&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
 
 
 </div>
-  <a href="https://github.com/ZeinabHussieni" style="display: inline-block;">
+  <a href="https://github.com/ZeinabHussieni">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabHussieni&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 
