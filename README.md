@@ -51,20 +51,7 @@
 
 </div>
 
-
-### 🌼 My Contribution Garden
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif" width="120" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeinabHussieni&theme=react-dark&color=ec4899&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=🌸+My+Contribution+Garden" />
-</p>
-
----
-
-✨ Thanks for visiting my profile — let’s build something amazing! 
+✨ Thanks for visiting my profile let’s build something amazing! 
 
 ---
 
